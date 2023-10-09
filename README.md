@@ -1,5 +1,5 @@
-# Project Name
-> Lending Club Case Study.
+# Linear Regression
+> Bike sharing assignment.
 
 
 ## Table of Contents
@@ -11,15 +11,15 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Upgrad Lending club case study.
-- This repo has the EDa for the case study
-- We tried to find what are the columns efecting the loan default.
-- We used the loan data for this project
+- Upgrad Bike sharing assignment.
+- This repo has the EDa and Linear Regression code
+- We tried to find what are the columns efecting the cnt.
+- We used the bike sharing data for this project
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Please check the ipynd file for the complete analysis.
+- Please check the ipynd file for the complete analysis and the linear regreesion code.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -31,13 +31,16 @@
 - pandas - version 2.0.3
 - matplotlib - version 3.7.2
 - seaborn - version 0.12.2
+- sklearn - version 1.2.1
+- statsmodels - version 0.13.5
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
 - This project was given to us as an assignment from upgrad
-- References are matplotlib and seaborn documentations
+- References are matplotlib,seaborn and sklearn documentations
 
 
 
